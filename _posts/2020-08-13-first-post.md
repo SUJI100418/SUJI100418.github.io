@@ -1,7 +1,7 @@
 ---
 title: "Welcome to Jekyll!"
 date: 2020-08-13 02:42:28 -0400
-categories: jekyll update
+categories: jekyll update helloworld
 ---
 우왕 너무 신기하다~~ 드디어 내 깃허브.io를 만들었당!!!~~ 짱재밌다~~~!!
 
